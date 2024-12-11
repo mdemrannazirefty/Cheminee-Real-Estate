@@ -61,22 +61,16 @@ We welcome contributions from the community! If you have any bug fixes, improvem
 
 Let me know if you want to add any more details!
 
-# Support
+## Contact for Support
 
 If you have any questions or encounter issues, feel free to open an issue on the Issues tab of this repository.
+**Email**: [mdemrannazirefty@gmail.com](mailto:mdemrannazirefty@gmail.com)
 
 # Additional Resources:
 ## Demo Video
 
 Watch the demo video for **CHEMINEE Real Estate Management System** to see the project in action:
-
 [Demo Video](https://www.youtube.com/watch?v=VsQg7HlJ2N0&t=247s)
 
----
 
-## Contact for Support
-
-For any questions or support, please reach out to:
-
-**Email**: [mdemrannazirefty@gmail.com](mailto:mdemrannazirefty@gmail.com)
 
