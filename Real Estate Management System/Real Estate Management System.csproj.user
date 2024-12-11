@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\Adminviewissue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Overview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Property.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Propertyimage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Propertytype.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Registeradmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Registerclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Registeremployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Registerowner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Clientclientdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Clientoverview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Clientpropertyimage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Clientresetpassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Clientsubmitissue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Clientsubmitproposal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\Employeeclientdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\Employeeemployeedetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\Employeeoverview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\Employeeownerdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\EmployeeProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\Employeepropertyimage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\Employeeresetpassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\Employeeviewissue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GetStarted\Contribution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GetStarted\Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\Forgetpasswordform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Owneraddproperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Ownercopyid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Ownermyproperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Owneroverview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Ownerownerdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Ownerpropertyimage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Ownerresetpassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Ownersubmitissue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Ownerviewproposal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Signup\signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

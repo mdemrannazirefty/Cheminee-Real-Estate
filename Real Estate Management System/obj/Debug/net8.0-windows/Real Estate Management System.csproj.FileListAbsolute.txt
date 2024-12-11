@@ -1,0 +1,120 @@
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Forms.Overview.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.GetStarted.Contribution.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Login.LoginForm.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.csproj.GenerateResource.cache
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.AssemblyInfoInputs.cache
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.AssemblyInfo.cs
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.csproj.CoreCompileInputs.cache
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\Real Estate Management System.exe
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\Real Estate Management System.deps.json
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\Real Estate Management System.runtimeconfig.json
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\Real Estate Management System.dll
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\Real Estate Management System.pdb
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.dll
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\refint\Real Estate Management System.dll
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.pdb
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.genruntimeconfig.cache
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\ref\Real Estate Management System.dll
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Properties.Resources.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.GetStarted.Start.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Forms.Registerowner.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Registerclient.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Registeremployee.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Property.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Propertytype.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Propertyimage.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Owneraddproperty.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Owneroverview.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownerownerdetails.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownerpropertyimage.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownerresetpassword.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientclientdetails.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientoverview.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientpropertyimage.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientsubmitissue.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientresetpassword.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientsubmitproposal.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownerviewproposal.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownersubmitissue.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Signup.signup.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Adminviewissue.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeemployeedetails.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeoverview.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.EmployeeProperty.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeepropertyimage.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeresetpassword.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeviewissue.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeclientdetails.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeownerdetails.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.csproj.AssemblyReference.cache
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Est.8D023340.Up2Date
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\Real Estate Management System.exe
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\Real Estate Management System.deps.json
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\Real Estate Management System.runtimeconfig.json
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\Real Estate Management System.dll
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\Real Estate Management System.pdb
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.csproj.AssemblyReference.cache
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Adminviewissue.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Forms.Overview.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Property.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Propertyimage.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Propertytype.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Registerclient.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Registeremployee.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Forms.Registerowner.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientclientdetails.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientoverview.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientpropertyimage.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientresetpassword.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientsubmitissue.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Client.Clientsubmitproposal.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeclientdetails.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeemployeedetails.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeoverview.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeownerdetails.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.EmployeeProperty.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeepropertyimage.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeresetpassword.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Employee.Employeeviewissue.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.GetStarted.Contribution.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.GetStarted.Start.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Login.LoginForm.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Owneraddproperty.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Owneroverview.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownerownerdetails.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownerpropertyimage.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownerresetpassword.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownersubmitissue.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownerviewproposal.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Properties.Resources.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Signup.signup.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.csproj.GenerateResource.cache
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.AssemblyInfoInputs.cache
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.AssemblyInfo.cs
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.csproj.CoreCompileInputs.cache
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Est.8D023340.Up2Date
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.dll
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\refint\Real Estate Management System.dll
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.pdb
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real Estate Management System.genruntimeconfig.cache
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\ref\Real Estate Management System.dll
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Login.Forgetpasswordform.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Registeradmin.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Admin.Registeradmin.resources
+C:\Efty\Try C# Codes\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Login.Forgetpasswordform.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownercopyid.resources
+C:\Users\mdemr\OneDrive\Desktop\Real Estate Management System\Real Estate Management System\obj\Debug\net8.0-windows\Real_Estate_Management_System.Owner.Ownermyproperty.resources
