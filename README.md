@@ -45,7 +45,7 @@ Open the solution file (CHEMINEE Real Estate Management System.sln) with Visual 
 - Go to the Build menu and select "Build Solution".
 - Once the build is successful, go to the Debug menu and select "Start Debugging" to run the application.
 
-The project report for **CHEMINEE Real Estate Management System** is available as a PDF document. You can view or download it using the link below:[CHEMINEE_Project_Report.pdf](https://github.com/mdemrannazirefty/Cheminee-Real-Estate/blob/main/CHEMINEE_Project_Report.pdf)
+The project report for **CHEMINEE Real Estate Management System** is available as a PDF document. You can view or download it using the link below: [CHEMINEE_Project_Report.pdf](https://github.com/mdemrannazirefty/Cheminee-Real-Estate/blob/main/CHEMINEE_Project_Report.pdf)
 
 # Contributing
 We welcome contributions from the community! If you have any bug fixes, improvements, or new features you'd like to add, please follow these steps:
