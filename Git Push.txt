@@ -1,0 +1,25 @@
+echo "# Cheminee-Real-Estate-Management-System" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mdemrannazirefty/Cheminee-Real-Estate-Management-System.git
+git push -u origin main
+
+Git Update:
+
+git add .
+git commit -m "fill rename2"
+git push -u origin main
+
+If now pushing: 
+git checkout main
+git merge branch-name
+git add .
+git commit -m "Resolve merge conflicts"
+git pull origin main
+git push origin main
+git log --oneline
+git branch -d branch-name
+git push origin --delete branch-name
+
