@@ -64,6 +64,7 @@ Let me know if you want to add any more details!
 ## Contact for Support
 
 If you have any questions or encounter issues, feel free to open an issue on the Issues tab of this repository.
+
 **Email**: [mdemrannazirefty@gmail.com](mailto:mdemrannazirefty@gmail.com)
 
 # Additional Resources:
